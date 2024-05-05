@@ -53,7 +53,7 @@ This command starts the development server, compiles the project, and opens it i
 Once the project is running, you can access it by opening your web browser and navigating to the following URL:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## Additional Commands
